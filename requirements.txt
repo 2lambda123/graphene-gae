@@ -1,7 +1,7 @@
 pip
 setuptools
 
-wheel==0.23.0
+wheel==0.38.1
 tox
 coverage
 flake8
